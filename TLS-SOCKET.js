@@ -1,7 +1,7 @@
 /*
 
 **          TLS SOCKET FLOOD v1.2                   **
-**          MADE BY Xenn1337                        **
+**           SOS.ph  | Angel Sqli                      **
 **          %RAND% SUPPORTED                        **
 **          Memory leak fixed                       **
 
